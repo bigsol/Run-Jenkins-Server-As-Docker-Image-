@@ -106,8 +106,13 @@ When the Jenkins is ready page appears, click Start using Jenkins.
 ![jenkins-instance-configuration](https://user-images.githubusercontent.com/51197053/136697921-9c22457d-5df9-4a0f-bd87-0c2b7d39c491.png)
 
 
-
+02.05. Login to Jenkins
+Fill in the username/password which you have created in previous steps
 
 
     
-    
+![jenkins-login2](https://user-images.githubusercontent.com/51197053/136697960-b7d3a825-a76a-42dc-96c5-6deed92fd19a.png)
+
+03. Start using Jenkins
+
+![jenkins-welcome](https://user-images.githubusercontent.com/51197053/136697997-fa52abe8-c230-4328-9bc3-e074422d01a1.png)
