@@ -76,6 +76,38 @@ Wait for Jenkins to display the Login page
 
 ![jenkins-login](https://user-images.githubusercontent.com/51197053/136697800-33dac4ba-16c5-4cc3-b157-5d8ae69a0dbd.png)
 
+Now we need to grab the initial password
+
+# Get the initial password
+sudo cat ${PWD}/jenkins_home/secrets/initialAdminPassword
+
+02.02. Customizing Jenkins with plugins
+After unlocking Jenkins, the Customize Jenkins page appears.
+Here you can install any number of useful plugins as part of your initial setup.
+Click one of the two options shown:
+
+Install suggested plugins - to install the recommended set of plugins, which are based on most common use cases.
+Select plugins to install - to choose which set of plugins to initially install.
+When you first access the plugin selection page, the suggested plugins are selected by default.
+
+02.03. Creating the first administrator user
+Finally, after customizing Jenkins with plugins, Jenkins asks you to create your first administrator user.
+
+When the Create First Admin User page appears, specify the details for your administrator user in the respective fields and click Save and Finish.
+
+![jenkins-admin-user](https://user-images.githubusercontent.com/51197053/136697892-089a15e2-c593-4328-98c8-5bee3b582003.png)
+
+
+02.04. Instance Configuration
+Leave this field as as for now
+Proceed to next step
+When the Jenkins is ready page appears, click Start using Jenkins.
+
+![jenkins-instance-configuration](https://user-images.githubusercontent.com/51197053/136697921-9c22457d-5df9-4a0f-bd87-0c2b7d39c491.png)
+
+
+
+
 
     
     
